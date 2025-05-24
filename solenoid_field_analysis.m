@@ -1,3 +1,4 @@
+
 function solenoid_field_analysis()
     % Параметры соленоида
     Radius = 1.0;          % Радиус соленоида (м)
